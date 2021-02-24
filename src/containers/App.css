@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+h1 {
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 500%;
+    color: chocolate
+}
+
+
+img {
+    height: 200px;
+    width: 200px;
+}
