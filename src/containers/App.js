@@ -8,6 +8,7 @@ import ErrorBoundary from '../components/ErrorBoundary';
 function App() {
     const [robots, setRobots] = useState([]);
     const [searchfield, setSearchfield] = useState('');
+    console.log("THIS IS REACT NEW FEATURE");
 
     useEffect(() => {
         fetch("https://jsonplaceholder.typicode.com/users")
